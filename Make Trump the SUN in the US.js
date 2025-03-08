@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Make Trump the SUN in US
+// @name         Make Trump the SUN in the US
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Bold every Trump on Whitehouse website
